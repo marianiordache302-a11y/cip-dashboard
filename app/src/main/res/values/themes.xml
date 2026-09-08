@@ -1,0 +1,4 @@
+<resources>
+<style name="Theme.CipDashboard" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+<item name="android:fontFamily">sans</item><item name="android:statusBarColor">@color/black</item><item name="android:navigationBarColor">@color/black</item><item name="android:colorAccent">@color/blue</item>
+</style></resources>
